@@ -219,9 +219,7 @@ ${builtin} مدمجة، ${custom} تم تعريفها من قبل المستخد
     Clear: "مسح السياق",
     Revert: "التراجع",
   },
-  Plugin: {
-    Name: "المكوّن الإضافي",
-  },
+
   FineTuned: {
     Sysmessage: "أنت مساعد ي",
   },
